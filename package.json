@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-parcel-template",
+  "name": "bank-api-sample",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "@typedef": "dist/typedef"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marvin Estacio",
   "license": "ISC",
   "devDependencies": {
     "@types/cookie-parser": "^1.4.2",
